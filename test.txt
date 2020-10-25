@@ -1,7 +1,0 @@
-this
-is
-a
-multi
-line
-test
-file
